@@ -38,12 +38,13 @@ This project is designed to analyze eCommerce transaction data to derive insight
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+
+
+##Output: 
+![Figure_1](https://github.com/user-attachments/assets/20ab6741-c624-4a2b-8455-e12d7615f188)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-![Figure_1](https://github.com/user-attachments/assets/20ab6741-c624-4a2b-8455-e12d7615f188)
-
 
